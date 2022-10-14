@@ -1,0 +1,12 @@
+version: '3.9'
+networks:
+  default:
+    driver: bridge
+
+
+services:
+  # DB local
+  postgres_showcase_platform:
+    extends:
+      file: showcase-platform-utils/docker-compose.yml
+      service: postgres_showcase_platform

@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RunProject" type="Multirun" singleton="false" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+    <runConfiguration name="Showcase DB" type="Docker" />
+    <runConfiguration name="ShowcaseRestApp" type="Application" />
+    <runConfiguration name="ShowcaseUIApp" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>

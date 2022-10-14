@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "showcase-platform-parent": "https://github.com/texashedgeem/showcase-platform-parent.git",
+    "showcase-platform-ui": "https://github.com/texashedgeem/showcase-platform-ui.git",
+    "showcase-platform-api": "https://github.com/texashedgeem/showcase-platform-api.git",
+    "showcase-platform-utils": "https://github.com/texashedgeem/showcase-platform-utils.git",
+  }
+}
